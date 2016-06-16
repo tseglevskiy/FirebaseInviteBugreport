@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InvitesDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="invitation_title">Invitation title</string>
+    <string name="invitation_message">Привет, мой дорогой друг! Это сообщение не будет отправлено!</string>
+    <string name="invitation_message_maximun">АбвгдежзиклмнопрстАбвгдежзиклмнопрстА</string>
+    <string name="invitation_deep_link">http://jollydroid.ru/</string>
+    <string name="invitation_cta">call-to-action-text</string>
+</resources>

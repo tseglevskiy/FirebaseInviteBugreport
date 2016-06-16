@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "507410844073",
+    "firebase_url": "https://jolly-droid-demo-app.firebaseio.com",
+    "project_id": "jolly-droid-demo-app",
+    "storage_bucket": "jolly-droid-demo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507410844073:android:6eb3597ce5344ab0",
+        "android_client_info": {
+          "package_name": "ru.jollydroid.invitesdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507410844073-i97919k777tck0u9ed8uk2asru87l5p2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.jollydroid.invitesdemo",
+            "certificate_hash": "51B6E12D6D1253236F216D1F40E74749E8B5889B"
+          }
+        },
+        {
+          "client_id": "507410844073-jhmf0hv25sei54a5bibdugemli64rt3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASKTiDr8_BQCf-pcgmripGcueWB5VKdrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507410844073-jhmf0hv25sei54a5bibdugemli64rt3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
